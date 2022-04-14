@@ -1,3 +1,6 @@
+/**
+ * Find Animal number based different depth
+ */
 function animalCount(depth) {
     var animal = 0;
     if (depth <= 10) {
